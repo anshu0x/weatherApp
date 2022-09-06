@@ -1,3 +1,3 @@
 # weatherApp
-https://weather-app-anshu.netlify.app/
-Weather App is created using openweather Api 
+https://weather-app-anshu.netlify.app/  
+is created using openweather Api 
